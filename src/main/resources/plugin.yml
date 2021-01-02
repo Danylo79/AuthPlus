@@ -1,0 +1,5 @@
+name: AuthPlus
+version: ${project.version}
+main: dev.dankom.auth.Main
+api-version: 1.16
+authors: [ Dankom ]
